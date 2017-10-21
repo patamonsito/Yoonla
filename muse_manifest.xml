@@ -1,0 +1,22 @@
+<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="patamonsito.com" resolutions="1x" timestamp="1508552235497">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3921751628" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="46400467" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4273287925" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index"/>
+    <file name="require.js" crc="85721165" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo-1 (1)-u143-fr.png" crc="133585884" ref="index"/>
+    <file name="1895662956_arvo.jpg" crc="123983559" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4029494273" seo="true" mt="1508552107987" redirect="true"/>
+</manifest>
